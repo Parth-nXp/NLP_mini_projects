@@ -1,4 +1,4 @@
-# TDNN Mini Projects
+# NLP Mini Projects
 
 This repository is a collection of small NLP experiments created for learning and practice. Each experiment focuses on understanding a specific concept such as data loading, model training, evaluation, and experimentation with sequential neural networks using simple datasets.
 
